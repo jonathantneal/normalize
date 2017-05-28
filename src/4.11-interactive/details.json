@@ -1,0 +1,7 @@
+{
+  "description": "Add the details display",
+  "browsers": [
+    "edge > 0",
+    "ie > 0"
+  ]
+}

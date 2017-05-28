@@ -1,0 +1,6 @@
+{
+  "description": "Add the summary display",
+  "browsers": [
+    "> 0%"
+  ]
+}

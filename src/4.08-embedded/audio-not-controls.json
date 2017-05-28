@@ -1,0 +1,6 @@
+{
+  "description": "Fix the audio display",
+  "browsers": [
+    "ios <= 7"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Add the hidden attribute display",
+  "browsers": [
+    "ie > 0"
+  ]
+}

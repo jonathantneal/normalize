@@ -1,0 +1,6 @@
+{
+  "description": "Fix the media display",
+  "browsers": [
+    "ie <= 9"
+  ]
+}

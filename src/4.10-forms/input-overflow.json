@@ -1,0 +1,7 @@
+{
+  "description": "Fix the input overflow",
+  "browsers": [
+    "edge > 0",
+    "ie > 0"
+  ]
+}

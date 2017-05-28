@@ -1,0 +1,6 @@
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ */
+
+[type="search"] {
+	-webkit-appearance: textfield; /* 1 */

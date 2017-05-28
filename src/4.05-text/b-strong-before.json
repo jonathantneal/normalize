@@ -1,0 +1,6 @@
+{
+  "description": "Fix the duplicate bolder applied by the next rule",
+  "browsers": [
+    "safari <= 6"
+  ]
+}

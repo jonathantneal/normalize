@@ -1,0 +1,6 @@
+{
+  "description": "Fix a WebKit bug destroying native `audio` and `video` controls applied by the next rule",
+  "browsers": [
+    "android <= 4"
+  ]
+}

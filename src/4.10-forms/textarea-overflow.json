@@ -1,0 +1,6 @@
+{
+  "description": "Fix the visible textarea vertical scrollbar",
+  "browsers": [
+    "ie > 0"
+  ]
+}

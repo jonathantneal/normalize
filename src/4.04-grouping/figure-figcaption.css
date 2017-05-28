@@ -1,0 +1,8 @@
+figcaption,
+figure {
+	display: block;
+}
+
+figure {
+	margin: 1em 40px;
+}

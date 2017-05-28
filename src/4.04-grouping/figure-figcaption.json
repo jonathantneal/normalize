@@ -1,0 +1,6 @@
+{
+  "description": "Add the figure display and margin",
+  "browsers": [
+    "ie <= 8"
+  ]
+}

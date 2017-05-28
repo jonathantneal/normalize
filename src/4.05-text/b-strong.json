@@ -1,0 +1,8 @@
+{
+  "description": "Fix the bolder font weight",
+  "browsers": [
+    "chrome > 0",
+    "edge > 0",
+    "safari > 0"
+  ]
+}

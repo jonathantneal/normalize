@@ -1,0 +1,7 @@
+{
+  "description": "Fix the progress display",
+  "browsers": [
+    "edge > 0",
+    "ie > 0"
+  ]
+}

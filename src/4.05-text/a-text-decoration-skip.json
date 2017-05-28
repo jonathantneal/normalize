@@ -1,0 +1,7 @@
+{
+  "description": "Remove the gaps in links underline",
+  "browsers": [
+    "iOS >= 8",
+    "Safari >= 8"
+  ]
+}

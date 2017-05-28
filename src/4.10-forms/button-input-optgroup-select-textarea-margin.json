@@ -1,0 +1,7 @@
+{
+  "description": "Remove the control margin",
+  "browsers": [
+    "firefox > 0",
+    "safari > 0"
+  ]
+}

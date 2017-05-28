@@ -1,0 +1,6 @@
+{
+  "description": "Remove the select text transform inheritance",
+  "browsers": [
+    "firefox > 0"
+  ]
+}

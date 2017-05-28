@@ -1,0 +1,6 @@
+{
+  "description": "Fix the box sizing",
+  "browsers": [
+    "firefox > 0"
+  ]
+}

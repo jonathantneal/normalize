@@ -1,0 +1,8 @@
+{
+  "description": "Remove the button text transform inheritance",
+  "browsers": [
+    "edge > 0",
+    "firefox > 0",
+    "ie > 0"
+  ]
+}

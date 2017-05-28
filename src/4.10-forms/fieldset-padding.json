@@ -1,0 +1,6 @@
+{
+  "description": "Fix the fieldset padding",
+  "browsers": [
+    "firefox > 0"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "normalize",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "jonathantneal/normalize",
+  "homepage": "https://github.com/jonathantneal/normalize#readme",
+  "bugs": "https://github.com/jonathantneal/normalize/issues",
+  "main": "normalize.css",
+  "files": [
+    "normalize.css",
+    "src"
+  ],
+  "scripts": {
+    "clean": "git clean -X -d -f",
+    "prepublish": "npm test",
+    "test": "stylelint src/**/*.css --cache --ignore-pattern .gitignore"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "stylelint": "^7.10.1",
+    "stylelint-config-dev": "^1.4.0"
+  },
+  "stylelint": {
+    "extends": "stylelint-config-dev",
+    "rules": {
+      "font-family-no-duplicate-names": [
+        true,
+        {
+          "ignoreFontFamilyNames": [
+            "monospace"
+          ]
+        }
+      ],
+      "font-weight-notation": [
+        "numeric",
+        {
+          "ignore": [
+            "relative"
+          ]
+        }
+      ],
+      "property-no-vendor-prefix": null
+    }
+  },
+  "keywords": [
+    "css",
+    "browsers",
+    "bugs",
+    "fixes",
+    "updates",
+    "compatibility"
+  ]
+}

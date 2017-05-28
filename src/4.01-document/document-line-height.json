@@ -1,0 +1,7 @@
+{
+  "description": "Fix the document line height",
+  "browsers": [
+    "ie > 0",
+    "ios > 0"
+  ]
+}

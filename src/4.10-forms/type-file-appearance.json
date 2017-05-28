@@ -1,0 +1,7 @@
+{
+  "description": "Fix unstylable file inputs",
+  "browsers": [
+    "ios > 0",
+    "safari > 0"
+  ]
+}

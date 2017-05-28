@@ -1,0 +1,6 @@
+{
+  "description": "Remove the image border inside links",
+  "browsers": [
+    "ie <= 10"
+  ]
+}

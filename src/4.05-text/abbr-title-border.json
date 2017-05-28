@@ -1,0 +1,6 @@
+{
+  "description": "Remove the titled abbreviation border",
+  "browsers": [
+    "firefox <= 39"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Fix any document font sizing adjustments after orientation changes",
+  "browsers": [
+    "all browsers"
+  ]
+}

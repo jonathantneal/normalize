@@ -1,0 +1,6 @@
+{
+  "description": "Add the canvas display",
+  "browsers": [
+    "ie <= 9"
+  ]
+}

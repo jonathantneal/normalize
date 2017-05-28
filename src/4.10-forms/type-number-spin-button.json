@@ -1,0 +1,6 @@
+{
+  "description": "Fix the inupt number cursor increment and decrement buttons",
+  "browsers": [
+    "chrome > 0"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Remove the inner button border and padding",
+  "browsers": [
+    "firefox > 0"
+  ]
+}

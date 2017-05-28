@@ -1,0 +1,8 @@
+{
+  "description": "Fix the font sizing and margins on `h1` elements within `section` and `article` contexts",
+  "browsers": [
+    "chrome > 0",
+    "firefox > 0",
+    "safari > 0"
+  ]
+}

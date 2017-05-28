@@ -1,0 +1,7 @@
+/**
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+	outline-offset: -2px; /* 2 */
+}

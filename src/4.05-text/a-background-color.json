@@ -1,0 +1,6 @@
+{
+  "description": "Remove the gray background on active links",
+  "browsers": [
+    "ie 10"
+  ]
+}

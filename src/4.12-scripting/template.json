@@ -1,0 +1,6 @@
+{
+  "description": "Add the template display",
+  "browsers": [
+    "ie > 0"
+  ]
+}

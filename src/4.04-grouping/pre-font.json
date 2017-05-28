@@ -1,0 +1,6 @@
+{
+  "description": "Fix any font sizing and scaling",
+  "browsers": [
+    "> 0%"
+  ]
+}

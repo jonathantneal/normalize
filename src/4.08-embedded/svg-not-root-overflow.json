@@ -1,0 +1,6 @@
+{
+  "description": "Hide the svg overflow",
+  "browsers": [
+    "ie > 0"
+  ]
+}

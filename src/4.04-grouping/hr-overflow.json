@@ -1,0 +1,7 @@
+{
+  "description": "Fix the overflow",
+  "browsers": [
+    "edge > 0",
+    "ie > 0"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Fix the checkable box sizing",
+  "browsers": [
+    "ie <= 10"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Correct the inability to style clickable types in iOS and Safari",
+  "browsers": [
+    "ios > 0",
+    "safari > 0"
+  ]
+}

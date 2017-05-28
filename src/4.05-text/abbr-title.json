@@ -1,0 +1,10 @@
+{
+  "description": "Add the titled abbreviation text decoration",
+  "browsers": [
+    "chrome <= 57",
+    "edge > 0",
+    "ie > 0",
+    "opera > 0",
+    "safari > 0"
+  ]
+}
